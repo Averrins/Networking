@@ -1,0 +1,6 @@
+install
+
+apt-get install proftpd
+
+uninstall
+apt-get --purge autoremove proftpd
